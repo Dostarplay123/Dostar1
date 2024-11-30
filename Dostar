@@ -11,9 +11,9 @@
 
     <script>
         document.getElementById("openWhatsApp").addEventListener("click", function () {
-            // Замените "PHONE_NUMBER" на номер телефона в международном формате (без плюса)
-            const phoneNumber = "77474705053"; // Пример: 79876543210
-            const url = `https://api.whatsapp.com/send?phone=${phoneNumber}`;
+             
+            const phoneNumber = "77474705053";
+            const url = `https://api.whatsapp.com/send?phone=${77474705053}`;
             window.open(url, "_blank");
         });
     </script>
