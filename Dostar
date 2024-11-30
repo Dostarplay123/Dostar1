@@ -17,5 +17,6 @@
             window.open(url, "_blank");
         });
     </script>
+<a href="https://web.whatsapp.com/send/?phone=77474705053" title="Переслать по WhatsApp" id="action-button" class="_9vcv _advm _9scb" data-ms="{&quot;creative&quot;:&quot;link&quot;}"><span class="_advp _aeam">Перейти в чат</span></a>
 </body>
 </html>
